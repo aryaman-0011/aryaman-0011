@@ -1,4 +1,4 @@
-# Hello, I'm [Aryaman Kushwaha] 👋
+# Hello, I'm Aryaman Kushwaha 👋
 
 ## 👨‍💻 About Me:
 I'm a passionate developer learning **Three.js** for 3D graphics and **Machine Learning** to build intelligent systems. I'm excited about combining the power of AI with immersive visualizations. Currently, I’m focused on **3D modeling with Three.js** and **building machine learning models** for real-world applications.
