@@ -27,7 +27,6 @@
 
 <br><br>     
 
-
 ## 💀 About Me:
 I’m no longer just an ordinary coder. I’ve *transformed* into a creator, a **digital chemist** in the lab of the web. Like Walter White, I’ve taken my knowledge of **Three.js** and **Machine Learning** to the next level—no more playing by the rules. The streets of **code** are my domain, and I build interactive worlds and intelligent systems with precision, power, and a touch of madness. 
 
