@@ -48,7 +48,7 @@ What’s my goal? To create, to disrupt, and to build something *legendary*. I d
 - **Libraries**: NumPy, Pandas, Matplotlib (tools for handling data, crunching the numbers, and making sure everything’s precise) 🔨
 
 
-## 📬 Contact Me, If You Dare:
+## 📬 Contact Me:
 [![Email](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:kushwaha.aryaman21@gmail.com)
 [![Email](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/aryaman-kushwaha-b60b2028a/)
 ---
