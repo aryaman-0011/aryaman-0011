@@ -1,58 +1,79 @@
-# 🧪 I am Aryaman Kushwaha — Mastermind Behind the Code 🔬💥
+# ARYAMAN KUSHWAHA
 
-```
-████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
-████████████████████████████████████████████████████████████  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
-███████████████████████████████████`.        ╙██████████████  ███████║█████╗  ██║     ██║     ██║   ██║
-████████████████████████████████▀  ¿▓▓▓▓▓▓▓▓▄/ "████████████  ██╔══██║██╔══╝  ██║     ██║     ██║   ██║
-██████████████████████████████▀.  ▓▓▓▓▓▓▓▓▓▓▓▓   ▐██████████  ██║  ██║███████╗███████╗███████╗╚██████╔╝▄█╗
-██████████████████████████████ `  ▓▓▓▓▓▓▓▓▓▓▓▓  ` ██████████  ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝ ╚═════╝ ╚═╝
-██████████████████████████████ `  ▓▓▓▓▓▓▓▓▓▓▓▓   ▄██████████
-▀██████████████████████████████▌  ▀▀▓▓▓▓▓▓▓▌╓╖. ████████████  ███╗   ██╗██╗ ██████╗███████╗  ████████╗ ██████╗
-█▄▀██████████████████████████████▄ ╩╦╙▀▀▀▀▀ ╣`,█████████████  ████╗  ██║██║██╔════╝██╔════╝  ╚══██╔══╝██╔═══██╗
-▄▀█▄╙█████████████████████▀▀▀▀█████▄▄ .... ,▄███████▀███████  ██╔██╗ ██║██║██║     █████╗       ██║   ██║   ██║
-██▄▀█▄╙█████████████████▀  ╪╢%╦══~╓,└ ╚▒▒▒ ╙▀|,╓╓═╤H   ▀████  ██║╚██╗██║██║██║     ██╔══╝       ██║   ██║   ██║
-█▀▀▀-▀█▌▄▀█████████████   ║▒▒▒▒▒▒▒▒▒▒╢╦ ╘ -╣▒▒▒▒▒▒▒▒▒╢╕   ▀█  ██║ ╚████║██║╚██████╗███████╗     ██║   ╚██████╔╝
-██▄▀██└║▄▄▄████████████▄          ═╕╕╕╕╕═╕═══════       ▄▄▄▄  ╚═╝  ╚═══╝╚═╝ ╚═════╝╚══════╝     ╚═╝    ╚═════╝
-████▄▀█▌║███  ████████▌         ╕   ╩▒▒▒▒▒▒▒▒▒Ñ          ███
-██████▌Ö▓▌   ▀██████████`╔▒▒╣ █ ▒▒m   ╚▒╢▒▒▒╩ -╣▒ ▌ ▒▒▒ ████  ███╗   ███╗███████╗███████╗████████╗  ██╗   ██╗ ██████╗ ██╗   ██╗
-████ -"" ∞╙,▀.╙▀███████╜ ▒▒▒ ▄█ Ñ   -   S.  ═▒▒▒▒ █ ║▒▒╕└███  ████╗ ████║██╔════╝██╔════╝╚══██╔══╝  ╚██╗ ██╔╝██╔═══██╗██║   ██║
-████████▄ -«   ∞▄.▀",╓═     ╒██   ═╣▒▒ `Ñ╛        █▌ ▒▒▒ ███  ██╔████╔██║█████╗  █████╗     ██║      ╚████╔╝ ██║   ██║██║   ██║
-█████████▌ º     ╤╣▒╣╩^",▄▄███▀  ▒▒╣"     ''''''' ▀▀     `██  ██║╚██╔╝██║██╔══╝  ██╔══╝     ██║       ╚██╔╝  ██║   ██║██║   ██║
-█████████  ▌       ▄▄████████─         ---------    L'▒▒▒ ██  ██║ ╚═╝ ██║███████╗███████╗   ██║        ██║   ╚██████╔╝╚██████╔╝
-▀▀▀▀▀▀▀▀▀▀▀▀▀-     ▀▀▀▀▀▀▀▀▀▀       '╧╧╧╧╧╧╧╧╧`     ╚ ╧╧╧- ▀  ╚═╝     ╚═╝╚══════╝╚══════╝   ╚═╝        ╚═╝    ╚═════╝  ╚═════╝
+Every project, every line of code here is a challenge. A rebellion. A journey that never ends. If you’re here, you’ve already taken the first step into the unknown.
 
-```
-![](https://komarev.com/ghpvc/?username=aryaman-0011&color=brightgreen)
-   
+---
 
-## 💀 About Me:
-I’m no longer just an ordinary coder. I’ve *transformed* into a creator, a **digital chemist** in the lab of the web. Like Walter White, I’ve taken my knowledge of **Three.js** and **Machine Learning** to the next level—no more playing by the rules. The streets of **code** are my domain, and I build interactive worlds and intelligent systems with precision, power, and a touch of madness. 
+## 📚 THE PROJECTS
 
-What’s my goal? To create, to disrupt, and to build something *legendary*. I don’t need validation—my work speaks for itself. And this… this is just the beginning. 
+### 1. **Emotion Detection (Python, TensorFlow, Keras, OpenCV)**
+This world tells you to hide your feelings, to mask what you truly are. But I wanted to see if the machine could tear down that facade.  
+With **TensorFlow**, **Keras**, and **OpenCV**, I’ve built an emotion detection model that reads your face like a book. It doesn’t lie. And neither should you.  
+*The machine knows your truth.*
 
-### 🔭 What am I working on?
-- **Three.js**: Crafting high-octane 3D simulations that will make you feel the heat—just like a high-stakes game in Albuquerque 🏙️.
-- **Machine Learning**: Developing AI systems that think, learn, and evolve with the precision of a drug empire—no mistakes, only execution 🤖💡.
-- **Real-time AI simulations**: Bringing **Machine Learning** into **3D worlds**, where the systems adapt and respond to new variables on the fly 💥.
+- **Technologies Used:** Python, TensorFlow, Keras, OpenCV
+- **How to Run:**  
+  1. Clone the repo.
+  2. Install the dependencies:  
+     `pip install -r requirements.txt`
+  3. Run the Python script. Let the machine read your face.
 
-### 🌱 Currently Learning:
-- **Three.js**—Creating environments, worlds, and simulations that will leave you *stunned* 🌍.
-- **Deep Learning**—Like a chemist perfecting his formula, I’m diving deep into neural networks, refining and optimizing every model 🔬.
-- **Reinforcement Learning**—Teaching AI to make decisions like I would in a high-risk game of strategy—always adapting, always ahead 🧠.
+### 2. **Apple-Inspired Website (Three.js, React, JavaScript)**
+Think you know what web design looks like? Think again. Inspired by the clean aesthetics of Apple, but this website takes it a step further. Using **Three.js** for 3D graphics and **React** for a dynamic user experience, it’s not just another site — it’s an experience.  
+*You’ve seen Apple’s vision. Now you’ll see mine.*
 
-## 💼 Tools of the Trade (My Digital Lab Gear):
-- **Languages**: JavaScript, Python, HTML, CSS (I write code like a criminal mastermind—sharp and to the point) 🔥💻
-- **3D Graphics**: Three.js, WebGL, Blender (designing digital worlds, just like I used to cook—precise and untraceable) 💎
-- **Machine Learning**: TensorFlow, Keras, PyTorch (training AI agents to think, act, and make smart decisions like the ultimate mastermind) 🤖
-- **Libraries**: NumPy, Pandas, Matplotlib (tools for handling data, crunching the numbers, and making sure everything’s precise) 🔨
+- **Technologies Used:** Three.js, React, JavaScript
 
+### 3. **The Three.js Journey (Daily Updates)**
+This repo is where I’m pushing the limits every single day. A personal journey into mastering **Three.js**, one commit at a time. Each commit is a new lesson, a step deeper into 3D web design. This isn’t a tutorial. This is a way of thinking, a new way of creating.  
+*The journey doesn’t stop. And neither do I.*
+
+- **Commit Frequency:** Daily updates
+- **Goal:** Master Three.js, break the conventional web, and build a 3D future.
+
+---
+
+## 💻 THE TOOLS I USE
+
+- **Python** — The language of AI, the key to understanding the system.
+- **TensorFlow & Keras** — Neural networks that break down emotions, because the system can’t hide what’s real.
+- **OpenCV** — Seeing things differently. Through the lens of computer vision, the world is not as it seems.
+- **Three.js** — Breaking the flat, boring 2D web. 3D is the future, and I’m here to create it.
+- **React** — A frontend framework that turns static pages into interactive, dynamic experiences.
+- **JavaScript** — The foundation of everything. Without it, the web is nothing. With it, we have power.
+- **Blender, WebGL, Three.js** — I’m learning 3D modeling to craft the future of web design. Why settle for flat when you can have depth?
+
+---
+
+## 🔨 HOW TO CONTRIBUTE
+
+This repo isn’t a playground for amateurs. If you’re going to contribute, you better be ready to prove it. No room for half-hearted code here. Only the real deal. If you think you can add value, show me. I’m watching.
+
+1. Fork the repo.
+2. Create a branch.
+3. Make your changes — and make them count.
+4. Push your changes and submit a pull request. Don’t waste my time.
+
+--- 
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)
+![WebGL](https://img.shields.io/badge/WebGL-990000?style=for-the-badge&logo=webgl&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
 
 ## 📬 Contact Me:
 [![Email](https://skillicons.dev/icons?i=gmail&theme=dark)](mailto:kushwaha.aryaman21@gmail.com)
 [![Email](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/aryaman-kushwaha-b60b2028a/)
 ---
 
-🧪 **Remember**: I’m not playing by the rules anymore. I’m building a digital empire, one line of code at a time. Every project, every line of code is just another part of my legacy. *Don’t get in my way*—I’m the king of this lab.
-
-**I am the one who codes.** 💻💥
